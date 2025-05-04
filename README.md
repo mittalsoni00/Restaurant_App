@@ -101,3 +101,20 @@ Got questions, feedback, or just want to say hi?
 
 If you got hungry reading this, just imagine using the app. 😉
 Don’t forget to ⭐ the repo and share some foodie love!
+
+<img width="353" alt="Screenshot 2025-05-03 at 4 23 06 AM" src="https://github.com/user-attachments/assets/6764f5e0-4f0f-4b84-94bd-8e154c607932" />
+
+
+
+<img width="353" alt="Screenshot 2025-05-03 at 4 23 06 AM" src="https://github.com/user-attachments/assets/07bd494a-e09e-4cee-b961-4bad480d9441" />
+
+<img width="353" alt="Screenshot 2025-05-03 at 4 19 32 AM" src="https://github.com/user-attachments/assets/e8e52ac9-d902-4607-82f4-78e3844d74c6" />
+
+<img width="353" alt="Screenshot 2025-05-03 at 4 17 52 AM" src="https://github.com/user-attachments/assets/1ec37770-ff1f-48a2-b117-566f20fb1f86" />
+
+
+<img width="353" alt="Screenshot 2025-05-03 at 4 20 45 AM" src="https://github.com/user-attachments/assets/5f8308eb-c3de-49d4-84dd-0a6bb084505a" />
+
+<img width="353" alt="Screenshot 2025-05-03 at 4 20 12 AM" src="https://github.com/user-attachments/assets/a986608e-4b0d-468a-8d5f-d4bec79c1c1b" />
+
+
