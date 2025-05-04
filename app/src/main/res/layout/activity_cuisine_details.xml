@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/cuisineTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cuisine Name"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/dishesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@id/cuisineTitle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+<!--    <Button-->
+<!--        android:id="@+id/cartButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="56dp"-->
+<!--        android:text="Cart"-->
+<!--        android:textAllCaps="false"-->
+<!--        android:textColor="@android:color/white"-->
+<!--        android:textStyle="bold"-->
+<!--        android:drawableLeft="@drawable/ic_cart"-->
+<!--        android:drawablePadding="4dp"-->
+<!--        android:background="@drawable/green_button_bg"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        android:layout_marginEnd="24dp"-->
+<!--        android:layout_marginBottom="24dp"/>-->
+
+<!--    <com.google.android.material.button.MaterialButton-->
+<!--        android:id="@+id/cartButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="56dp"-->
+<!--        android:text="Cart"-->
+<!--        android:textAllCaps="false"-->
+<!--        android:textColor="@android:color/white"-->
+<!--        android:textStyle="bold"-->
+<!--        app:icon="@drawable/ic_cart"-->
+<!--        app:iconPadding="4dp"-->
+<!--        app:cornerRadius="16dp"-->
+<!--        android:backgroundTint="#4CAF50"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        android:layout_marginEnd="24dp"-->
+<!--        android:layout_marginBottom="24dp"/>-->
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/cartButton"
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:text="Cart"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        app:icon="@drawable/ic_cart"
+        app:iconPadding="4dp"
+        app:cornerRadius="16dp"
+        android:backgroundTint="#B59410"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
