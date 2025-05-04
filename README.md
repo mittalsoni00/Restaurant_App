@@ -106,8 +106,6 @@ Don’t forget to ⭐ the repo and share some foodie love!
 
 
 
-<img width="353" alt="Screenshot 2025-05-03 at 4 23 06 AM" src="https://github.com/user-attachments/assets/07bd494a-e09e-4cee-b961-4bad480d9441" />
-
 <img width="353" alt="Screenshot 2025-05-03 at 4 19 32 AM" src="https://github.com/user-attachments/assets/e8e52ac9-d902-4607-82f4-78e3844d74c6" />
 
 <img width="353" alt="Screenshot 2025-05-03 at 4 17 52 AM" src="https://github.com/user-attachments/assets/1ec37770-ff1f-48a2-b117-566f20fb1f86" />
