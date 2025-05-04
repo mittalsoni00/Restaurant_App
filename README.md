@@ -51,19 +51,16 @@ It’s modern, it’s multi-lingual, it scrolls infinitely (almost like your foo
 ✨ Extra Spices (A.K.A Enhancements)
 	•	Pulsating Dish Names – Because some dishes deserve a little drama.
 	•	Live Cart Updates – Instant sync across screens. Magic? Nope, just good code.
-	•	Connectivity Indicator – Offline? Don’t worry, we won’t let your cravings crash.
 	•	Zero Libraries – No third-party extras. Just pure Android muscle. 💪
 
 ⸻
 
 🧑‍💻 Tech Stack (Chef’s Special)
 
-Ingredient	Used For
 Java & Kotlin	The main course (logic & structure)
 XML Layouts	Designing the delicious UI
 Glide	Efficient image serving (but make it native)
 Android Studio	Cooking station (IDE)
-Retrofit	Networking (or native HTTP client if used)
 Strings.xml	Bilingual mastery (EN/HI)
 Animation APIs	Smooth UI spices
 
@@ -71,17 +68,6 @@ Animation APIs	Smooth UI spices
 
 ⸻
 
-📸 Screenshots
-
-Screen	Description
-	Carousel with cuisine & top dishes
-	Dishes by selected cuisine
-	Live cart with price updates
-	Hindi/English toggle in action
-
-
-
-⸻
 
 🚀 How to Run
 	1.	🍴 Clone the repo
@@ -101,19 +87,13 @@ Screen	Description
 
 ⸻
 
-🎥 Demo Video
-
-Watch the app in action — from scrolls to sizzlers — all packed in Demo_Video.zip inside the repo.
-
-⸻
-
 📬 Contact Me
 
 Got questions, feedback, or just want to say hi?
 
 👤 Mittal Soni
-📧 Email: mittalsoni@example.com
-🔗 LinkedIn: linkedin.com/in/mittalsoni
+📧 Email: mittalsoni212@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/mittalsoni002/
 
 ⸻
 
@@ -121,7 +101,3 @@ Got questions, feedback, or just want to say hi?
 
 If you got hungry reading this, just imagine using the app. 😉
 Don’t forget to ⭐ the repo and share some foodie love!
-
-⸻
-
-Would you like me to convert this into a beautifully formatted Markdown file (README.md) for GitHub?
